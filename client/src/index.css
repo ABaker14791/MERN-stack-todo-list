@@ -84,15 +84,15 @@ h4 {
   top: 50%;
   right: 16px;
   transform: translateY(-50%);
-  width: 24px;
-  height: 24px;
+  width: 32px;
+  height: 32px;
   color: var(--light);
   background-color: #af1e2d;
   border-radius: 50%;
   display: flex;
   justify-content: center;
   align-items: center;
-  line-height: 100%;
+  line-height: 0;
 }
 
 .addPopup {
